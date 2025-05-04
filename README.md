@@ -1,6 +1,4 @@
-Here's a draft for the `README.md` file for your repository:
 
-```markdown
 # CPU Scheduler Project
 
 This repository contains an implementation of a CPU Scheduling Simulator developed in **C#**. CPU scheduling is a fundamental aspect of modern operating systems, allowing efficient management of processes by allocating CPU time to various tasks. This project demonstrates various CPU scheduling algorithms and provides insights into their performance.
@@ -109,6 +107,3 @@ This project is licensed under the MIT License. See the `LICENSE` file for detai
 For any questions or suggestions, feel free to contact the owner:
 
 - **GitHub:** [Hoorain-Khalid](https://github.com/Hoorain-Khalid)
-```
-
-Feel free to customize this based on your specific project details or additional features!
